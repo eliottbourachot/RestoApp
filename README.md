@@ -1,8 +1,8 @@
-# ->RestoApp Application<-
+# RestoApp Application
 
 ![RestoAppLogo](https://github.com/eliottbourachot/RestoApp/blob/master/RestoAppScreenshot.png)  
 
-# Description  
+## Description  
 Application for restaurants to manage tables, seats, orders, and a menu.  
 > Tables can be added and the number of seats they have can change 
 > After starting the order for table, you can add items to each seat 
