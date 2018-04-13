@@ -1,4 +1,4 @@
-![RestoAppLogo](https://github.com/eliottbourachot/RestoApp/blob/master/RestoAppLogo.PNG)  
+![RestoAppLogo](https://github.com/eliottbourachot/RestoApp/blob/master/RestoAppScreenshot.png)  
 
 # Description  
 Application for restaurants to manage tables, seats, orders, and a menu.  
