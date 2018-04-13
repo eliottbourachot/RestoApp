@@ -1,5 +1,5 @@
 # RestoApp Application  
-![RestoAppLogo]http://cs.mcgill.ca/~eboura5/Pictures/RestoAppLogo.PNG?raw=true)  
+![RestoAppLogo](https://github.com/eliottbourachot/RestoApp/blob/master/RestoAppLogo.PNG)  
 
 ### Developed by Group 07 as part of ECSE 223 @McGillUniversity  
 ### Authors: 
